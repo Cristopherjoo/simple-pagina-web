@@ -1,4 +1,4 @@
-# Entrega portafolio M2
+# Pagina web basica
 
 Este Proyecto tiene como finalidad ejecutar conocimientos Básicos en la creación de una página web.
 
@@ -10,4 +10,4 @@ CSS para dar el estilo, Bootstrap v5.3.
 
 
 ### LInk del Repositorio
-https://github.com/Cristopherjoo/Portafolio-m2.git
+https://github.com/Cristopherjoo/simple-pagina-web.git
